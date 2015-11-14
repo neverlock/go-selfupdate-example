@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// Simple static webserver:
-	version := "2.0"
+	version := "1.0"
 	updateUrl := "http://www.conf.in.th/auto-update/"
 	appName := "go-selfupdate-example"
 
